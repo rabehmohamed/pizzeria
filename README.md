@@ -1,13 +1,13 @@
-Pizzeria
+# Pizzeria
 Pizzeria is a React.js project that allows users to browse a menu, place orders, search for orders, update existing orders, and manage their cart. It uses React Router for navigation, Redux for state management, and Tailwind CSS for styling.
 
-Features
+## Features
 Menu
 Order
 Cart
 User
 
-Technologies Used
+## Technologies Used
 React.js
 React Router
 Redux
