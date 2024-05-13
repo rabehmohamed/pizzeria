@@ -1,8 +1,15 @@
-# React + Vite
+Pizzeria
+Pizzeria is a React.js project that allows users to browse a menu, place orders, search for orders, update existing orders, and manage their cart. It uses React Router for navigation, Redux for state management, and Tailwind CSS for styling.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Menu
+Order
+Cart
+User
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used
+React.js
+React Router
+Redux
+Thunk middleware for async actions
+Tailwind CSS
